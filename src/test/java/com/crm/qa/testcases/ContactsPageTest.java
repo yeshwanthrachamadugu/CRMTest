@@ -22,6 +22,7 @@ public class ContactsPageTest extends Testbase{
 	 public ContactsPageTest() {
 		super();
 	}
+	 
 	
 	@BeforeMethod
 	public void setUp() throws Exception {
